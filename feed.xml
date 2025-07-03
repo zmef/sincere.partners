@@ -3,30 +3,10 @@
     <title>sincere.partners</title>
     <link href="https://sincere.partners/feed.xml" rel="self" />
     <link href="https://sincere.partners" />
-    <updated>2025-06-03T21:23:53-05:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Franchesca Fosdyck</name>
     </author>
     <id>https://sincere.partners</id>
 
-    <entry>
-        <title>Welcome</title>
-        <author>
-            <name>Franchesca Fosdyck</name>
-        </author>
-        <link href="https://sincere.partners/joe-mama.html"/>
-        <id>https://sincere.partners/joe-mama.html</id>
-
-        <updated>2025-06-03T11:45:25-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://sincere.partners/media/posts/1/Screenshot-2025-06-03-210657.png" height="351" width="1171" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-xs.png 640w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-sm.png 768w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-md.png 1024w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-lg.png 1366w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-xl.png 1600w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-2xl.png 1920w">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
 </feed>

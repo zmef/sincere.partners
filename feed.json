@@ -10,18 +10,5 @@
         "name": "Franchesca Fosdyck"
     },
     "items": [
-        {
-            "id": "https://sincere.partners/joe-mama.html",
-            "url": "https://sincere.partners/joe-mama.html",
-            "title": "Welcome",
-            "content_html": "\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://sincere.partners/media/posts/1/Screenshot-2025-06-03-210657.png\" height=\"351\" width=\"1171\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-xs.png 640w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-sm.png 768w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-md.png 1024w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-lg.png 1366w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-xl.png 1600w ,https://sincere.partners/media/posts/1/responsive/Screenshot-2025-06-03-210657-2xl.png 1920w\">\n      \n    </figure>",
-            "author": {
-                "name": "Franchesca Fosdyck"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-03T11:45:25-05:00",
-            "date_modified": "2025-06-03T21:23:53-05:00"
-        }
     ]
 }
