@@ -10,19 +10,5 @@
         "name": "Franchesca Fosdyck"
     },
     "items": [
-        {
-            "id": "https://sincere.partners/post.html",
-            "url": "https://sincere.partners/post.html",
-            "title": "post",
-            "summary": "post test",
-            "content_html": "<p>post test</p>",
-            "author": {
-                "name": "Franchesca Fosdyck"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-11T08:41:20-05:00",
-            "date_modified": "2025-07-11T08:41:20-05:00"
-        }
     ]
 }
