@@ -3,10 +3,30 @@
     <title>sincere.partners</title>
     <link href="https://sincere.partners/feed.xml" rel="self" />
     <link href="https://sincere.partners" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-07-23T09:25:25-05:00</updated>
     <author>
         <name>Franchesca Fosdyck</name>
     </author>
     <id>https://sincere.partners</id>
 
+    <entry>
+        <title>Post 1</title>
+        <author>
+            <name>Franchesca Fosdyck</name>
+        </author>
+        <link href="https://sincere.partners/post-1.html"/>
+        <id>https://sincere.partners/post-1.html</id>
+
+        <updated>2025-07-23T09:25:25-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Post 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Post 1</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
