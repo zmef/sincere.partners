@@ -3,45 +3,12 @@
     <title>sincere.partners</title>
     <link href="https://sincere.partners/feed.xml" rel="self" />
     <link href="https://sincere.partners" />
-    <updated>2025-07-24T13:40:22-05:00</updated>
+    <updated>2025-07-23T09:42:22-05:00</updated>
     <author>
         <name>Franchesca Fosdyck</name>
     </author>
     <id>https://sincere.partners</id>
 
-    <entry>
-        <title>Trying</title>
-        <author>
-            <name>Franchesca Fosdyck</name>
-        </author>
-        <link href="https://sincere.partners/trying.html"/>
-        <id>https://sincere.partners/trying.html</id>
-
-        <updated>2025-07-24T13:40:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Your Service Package or Case Study Title This is the detailed description for *this specific* package or case study.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><div class="service-package-box">
-    <h3>Your Service Package or Case Study Title</h3>
-    <p>This is the detailed description for *this specific* package or case study.</p>
-    <ul>
-        <li>Key Detail 1</li>
-        <li>Key Detail 2</li>
-        <li>Key Detail 3</li>
-    </ul>
-    <a href="/your-call-to-action-link" class="button">Call to Action</a>
-</div></div>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>What Is Sincere Partners? A Calmer, More Caring Approach to Marketing</title>
         <author>
