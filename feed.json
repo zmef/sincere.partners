@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://sincere.partners/test.html",
+            "url": "https://sincere.partners/test.html",
+            "title": "Test",
+            "summary": "Service Package 1: [Short Title] A brief teaser or key benefit of Service Package 1. This isn't the full details,&hellip;",
+            "content_html": "<div><div class=\"horizontal-sections-container\">\n    <div class=\"service-package-box\">\n        <h3>Service Package 1: [Short Title]</h3>\n        <p>A brief teaser or key benefit of Service Package 1. This isn't the full details, just a compelling summary.</p>\n        <a href=\"/services/package-1-full-page\" class=\"button\">Learn More</a>\n    </div>\n\n    <div class=\"service-package-box\">\n        <h3>Service Package 2: [Short Title]</h3>\n        <p>A brief teaser or key benefit of Service Package 2. Highlight unique aspects here.</p>\n        <a href=\"/services/package-2-full-page\" class=\"button\">Discover More</a>\n    </div>\n\n    <div class=\"service-package-box\">\n        <h3>Case Study: Client A</h3>\n        <p>See how we helped Client A achieve [key result] using our unique approach.</p>\n        <a href=\"/case-studies/client-a-full-page\" class=\"button\">View Case Study</a>\n    </div>\n</div>\n</div>",
+            "author": {
+                "name": "Franchesca Fosdyck"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-24T14:48:34-05:00",
+            "date_modified": "2025-07-24T14:48:34-05:00"
+        },
+        {
             "id": "https://sincere.partners/what-is-sincere-partners.html",
             "url": "https://sincere.partners/what-is-sincere-partners.html",
             "title": "What Is Sincere Partners? A Calmer, More Caring Approach to Marketing",

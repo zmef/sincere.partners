@@ -3,12 +3,51 @@
     <title>sincere.partners</title>
     <link href="https://sincere.partners/feed.xml" rel="self" />
     <link href="https://sincere.partners" />
-    <updated>2025-07-23T09:42:22-05:00</updated>
+    <updated>2025-07-24T14:48:34-05:00</updated>
     <author>
         <name>Franchesca Fosdyck</name>
     </author>
     <id>https://sincere.partners</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Franchesca Fosdyck</name>
+        </author>
+        <link href="https://sincere.partners/test.html"/>
+        <id>https://sincere.partners/test.html</id>
+
+        <updated>2025-07-24T14:48:34-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Service Package 1: [Short Title] A brief teaser or key benefit of Service Package 1. This isn't the full details,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><div class="horizontal-sections-container">
+    <div class="service-package-box">
+        <h3>Service Package 1: [Short Title]</h3>
+        <p>A brief teaser or key benefit of Service Package 1. This isn't the full details, just a compelling summary.</p>
+        <a href="/services/package-1-full-page" class="button">Learn More</a>
+    </div>
+
+    <div class="service-package-box">
+        <h3>Service Package 2: [Short Title]</h3>
+        <p>A brief teaser or key benefit of Service Package 2. Highlight unique aspects here.</p>
+        <a href="/services/package-2-full-page" class="button">Discover More</a>
+    </div>
+
+    <div class="service-package-box">
+        <h3>Case Study: Client A</h3>
+        <p>See how we helped Client A achieve [key result] using our unique approach.</p>
+        <a href="/case-studies/client-a-full-page" class="button">View Case Study</a>
+    </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What Is Sincere Partners? A Calmer, More Caring Approach to Marketing</title>
         <author>
