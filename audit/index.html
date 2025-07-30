@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing Audit Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="quiz-container">
+        <h1>Marketing Check-Up</h1>
+
+        <div class="question-block active" data-question-id="1">
+            <h2>Section 1: Presence</h2>
+            <p>1. Do you have a website? (3 pts)</p>
+            <label><input type="radio" name="q1" value="3"> Yes, and I like it</label>
+            <label><input type="radio" name="q1" value="2"> Yes, but I'm not happy with it</label>
+            <label><input type="radio" name="q1" value="1"> No, but I want one</label>
+            <label><input type="radio" name="q1" value="0"> No, and I'm not sure I need one</label>
+        </div>
+
+        <div class="question-block" data-question-id="2">
+            <h2>Section 1: Presence</h2>
+            <p>2. Do you have a Google My Business (GMB) Profile? (1 pt)</p>
+            <label><input type="radio" name="q2" value="1"> Yes</label>
+            <label><input type="radio" name="q2" value="0"> No</label>
+        </div>
+
+        <div class="question-block" data-question-id="3">
+            <h2>Section 1: Presence</h2>
+            <p>3. Do you have any social media pages for your business? (2 pts max)</p>
+            <label><input type="checkbox" name="q3" value="0.5"> Facebook</label>
+            <label><input type="checkbox" name="q3" value="0.5"> Instagram</label>
+            <label><input type="checkbox" name="q3" value="0.5"> Tik Tok</label>
+            <label><input type="checkbox" name="q3" value="0.5"> LinkedIn</label>
+            <label><input type="checkbox" name="q3" value="0"> None yet / I'm not sure</label>
+        </div>
+
+        <div class="question-block" data-question-id="4">
+            <h2>Section 1: Presence</h2>
+            <p>4. How often do you post or update your social media or website? (2 pts)</p>
+            <label><input type="radio" name="q4" value="2"> A few times a week</label>
+            <label><input type="radio" name="q4" value="1"> About once a month</label>
+            <label><input type="radio" name="q4" value="0.5"> Rarely</label>
+            <label><input type="radio" name="q4" value="0"> Never</label>
+        </div>
+
+        <div class="question-block" data-question-id="5">
+            <h2>Section 2: Clarity</h2>
+            <p>5. Can you describe your business in one sentence? (1 pt)</p>
+            <label><input type="radio" name="q5" value="1"> Yes</label>
+            <label><input type="radio" name="q5" value="0"> No</label>
+        </div>
+
+        <div class="question-block" data-question-id="6">
+            <h2>Section 2: Clarity</h2>
+            <p>6. When someone lands on your website or profile, what's the first thing they see? (1 pt)</p>
+            <label><input type="radio" name="q6" value="1"> My name or logo</label>
+            <label><input type="radio" name="q6" value="1"> My services or offers</label>
+            <label><input type="radio" name="q6" value="1"> A quote or slogan</label>
+            <label><input type="radio" name="q6" value="0"> I'm not sure / I don't have a site/profile</label>
+        </div>
+
+        <div class="question-block" data-question-id="7">
+            <h2>Section 3: Trust Signals</h2>
+            <p>7. Do you have any of the following on your website or social pages? (2 pts max)</p>
+            <label><input type="checkbox" name="q7" value="0.5"> Testimonials or reviews</label>
+            <label><input type="checkbox" name="q7" value="0.5"> Clear contact info</label>
+            <label><input type="checkbox" name="q7" value="0.5"> Prices or packages</label>
+            <label><input type="checkbox" name="q7" value="0.5"> Recent photos of your work or space</label>
+            <label><input type="checkbox" name="q7" value="0"> None of these</label>
+        </div>
+
+        <div class="question-block" data-question-id="8">
+            <h2>Section 3: Trust Signals</h2>
+            <p>8. When was the last time someone referred you because of your online presence? (1 pt)</p>
+            <label><input type="radio" name="q8" value="1"> This week</label>
+            <label><input type="radio" name="q8" value="1"> This month</label>
+            <label><input type="radio" name="q8" value="0.5"> A few months ago</label>
+            <label><input type="radio" name="q8" value="0"> Not sure / never</label>
+        </div>
+
+        <div class="question-block" data-question-id="9">
+            <h2>Section 4: SEO + Searchability</h2>
+            <p>9. If someone Googled your business or service, what would they find? (1 pt)</p>
+            <label><input type="radio" name="q9" value="1"> My Google listing shows up first</label>
+            <label><input type="radio" name="q9" value="1"> My website shows up</label>
+            <label><input type="radio" name="q9" value="1"> My social pages show up</label>
+            <label><input type="radio" name="q9" value="0"> I don't really show up / I'm not sure</label>
+        </div>
+
+        <div class="question-block" data-question-id="10">
+            <h2>Section 4: SEO + Searchability</h2>
+            <p>10. Have you ever added keywords to your website or Google Business profile? (1 pt)</p>
+            <label><input type="radio" name="q10" value="1"> Yes, I've done some SEO work</label>
+            <label><input type="radio" name="q10" value="0.5"> Maybe? Not sure what counts</label>
+            <label><input type="radio" name="q10" value="0.5"> No, but I'd like to</label>
+        </div>
+
+        <div id="navigation">
+            <button id="next-btn">Next</button>
+            <button id="submit-btn" style="display:none;">Submit</button>
+        </div>
+    </div>
+
+    <div id="results-container" style="display:none;">
+        <h2>Your Marketing Audit Results</h2>
+        <p>Your Score: <span id="score"></span> / 15</p>
+        <h3>Here are some suggestions to improve your marketing:</h3>
+        <ul id="suggestions"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
